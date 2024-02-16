@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842505998331",
+    "project_id": "job-tracker-bb997",
+    "storage_bucket": "job-tracker-bb997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842505998331:android:c132c0f82b45debb53855e",
+        "android_client_info": {
+          "package_name": "com.example.job_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpCRYkz3tl7J2UZqehI8CsEoUVc-5yLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842505998331:android:bf1f204516a9a5dd53855e",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpCRYkz3tl7J2UZqehI8CsEoUVc-5yLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
